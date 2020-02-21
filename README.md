@@ -2,7 +2,7 @@
 
 ## Repo for the Engineering Intramural Project
 
-All the R files are stored here, feel free to contribute.
+All the R files are stored here, feel free to contribute. Cheatsheets for R are available at (https://rstudio.com/resources/cheatsheets/)  
 
 
 ### Upcoming tasks
