@@ -7,7 +7,6 @@ All the R files are stored here, feel free to contribute.
 
 ### Upcoming tasks
 
-Following needs to be done.
 
 
 ## Built With
