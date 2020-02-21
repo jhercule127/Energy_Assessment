@@ -5,7 +5,7 @@
 All the R files are stored here, feel free to contribute.   
 
 ### Resources
-Cheatsheets for R are available at (https://rstudio.com/resources/cheatsheets/)
+Cheatsheets for R are available at https://rstudio.com/resources/cheatsheets/
 
 
 ## Built With
