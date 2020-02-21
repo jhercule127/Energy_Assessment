@@ -6,7 +6,9 @@ All the R files are stored here, feel free to contribute.
 
 ### Resources
 Cheatsheets for R are available at https://rstudio.com/resources/cheatsheets/
-
+R tutorials: 
+ * Datacamp - https://www.statmethods.net/r-tutorial/index.html
+ 
 
 ## Built With
 
