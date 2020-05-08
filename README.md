@@ -2,7 +2,7 @@
 
 ## Repo for the Engineering Intramural Project
 
-All the R files are stored here, feel free to contribute.   
+Analysis for costs and amount of energy in Energy.R file 
 
 ### Resources
 Cheatsheets for R are available at https://rstudio.com/resources/cheatsheets/
